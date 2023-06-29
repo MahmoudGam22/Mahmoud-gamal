@@ -6,7 +6,7 @@
 
 - 👀 passionate about Mobile Programming(android flutter)
 
-- here is my account: mahmoud691999@gmail.com
+- here is my email: mahmoud691999@gmail.com
 
 <hr>
 
